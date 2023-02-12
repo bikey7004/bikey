@@ -1,0 +1,59 @@
+.para {
+color: black;
+font-family: 'Julee', cursive;
+
+}
+.heading {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(46, 36, 36);
+}
+.heading {
+    font-size: 50px;
+
+}
+.margin1 {
+    
+    width: 160px;
+    margin: auto;
+
+}
+.padding {
+    padding: 50px 200px;
+}
+.margin {
+    width: 180px;
+}
+.margin2 {
+    margin: 80px 250px;
+}
+div {
+    background-image:url(https://www.pngplay.com/wp-content/uploads/7/Money-Heist-TV-Series-Transparent-PNG.png);
+background-size: contain;
+background-clip: content-box;
+}
+body {
+    background-color: rgb(245, 162, 162);
+    font-size: 22px;
+    font-weight: bolder;
+}
+.margin3 {
+    margin: 2px 5px 80px;
+}
+.grad {
+    height: 4800px;
+
+    background-image: conic-gradient(rgb(239, 55, 55), rgb(238, 238, 120), rgb(249, 106, 106));
+}
+.grad1 {
+    height: 200px;
+    background-image: linear-gradient(rgb(243, 64, 64), rgb(245, 162, 162));
+
+}
+.class1 {
+    position: right;
+}
+.heading1 {
+    color: rgb(149, 8, 11);
+}
